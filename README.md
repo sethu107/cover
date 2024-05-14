@@ -1,4 +1,5 @@
-# cover-page-design
+# EX-06 cover-page-design
+# DATE-28-4-2024
 ## AIM:
 To develop a website to display the cover page design of a book
 
